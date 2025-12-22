@@ -1,0 +1,472 @@
+.background {
+  width: 100vw;
+  display: block;
+}
+
+.nav-button {
+  position: absolute;
+  background: transparent;
+  border: none;
+  color: white;
+  width: 100px;
+  height: 22px;
+  font-weight: semi bold;
+  font-size: 25px;
+  cursor: pointer;
+}
+.nav-button-1 {
+  top: 45px;
+  left: 38vw;
+}
+.nav-button-2 {
+  top: 45px;
+  left: 48vw;
+}
+.nav-button-3 {
+  top: 45px;
+  left: 58vw;
+}
+
+.logo {
+  position: absolute;
+  width: 101px;
+  height: 35px;
+}
+.logo-1 {
+  position: absolute;
+  top: 39px;
+  left: 5vw;
+}
+.logo-2 {
+  position: absolute;
+  top: 5215px;
+  right: 5vw;
+}
+
+.fb-button {
+  position: absolute;
+  top: 14px;
+  left: 1.6vw;
+  right: 0.5vw;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 22px;
+  color: rgb(78, 54, 144);
+  background: transparent;
+  border: none;
+  opacity: 70%;
+  cursor: pointer;
+}
+
+.bq {
+  position: absolute;
+  top: 5215px;
+  background-color: white;
+  border: none;
+  border-radius: 45px;
+  width: 220px;
+  height: 60px;
+}
+
+.bq1 {
+  left: 15.5vw;
+}
+.bq2 {
+  left: 5vw;
+}
+
+.package {
+  position: absolute;
+  left: 25px;
+  right: 23px;
+  top: 25px;
+  font-size: 24px;
+  font-weight: semi bold;
+  cursor: pointer;
+  color: black;
+  border: none;
+  background: transparent;
+}
+
+.butha {
+  position: absolute;
+  top: 670px;
+  left: 1.5vw;
+  right: 1.5vw;
+  height: 85px;
+  background-color: rgb(106, 182, 192);
+  border: none;
+  border-radius: 45px;
+}
+
+.hool1 {
+  position: absolute;
+  top: 556px;
+  left: 4vw;
+  font-size: 19px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: black;
+  opacity: 70%;
+}
+
+.hool2 {
+  position: absolute;
+  top: 484px;
+  left: 4vw;
+  font-size: 19px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: black;
+  opacity: 70%;
+}
+
+.hool3 {
+  position: absolute;
+  top: 407px;
+  left: 4vw;
+  font-size: 19px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: black;
+  opacity: 70%;
+  width: 360px;
+}
+
+.hool4 {
+  position: absolute;
+  top: 350px;
+  left: 4vw;
+  font-size: 19px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: black;
+  opacity: 70%;
+}
+
+.hool12 {
+  width: 356px;
+}
+
+.hool13 {
+  position: absolute;
+  top: 417px;
+  left: 4vw;
+  font-size: 19px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: black;
+  opacity: 70%;
+}
+
+.include {
+  position: absolute;
+  top: 270px;
+  left: 4vw;
+  font-size: 24px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: black;
+}
+
+.baldan {
+  position: absolute;
+  top: 180px;
+  left: 1.5vw;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 21px;
+  color: black;
+  opacity: 70%;
+}
+
+.mongo {
+  margin-left: 1.5vw;
+  color: black;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 50px;
+}
+
+.navcha {
+  margin-top: 50px;
+  margin-left: 120px;
+  font-size: 30px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: black;
+}
+
+.zurh {
+  position: absolute;
+  left: 1.5vw;
+  top: 370px;
+}
+.zurh23 {
+  position: absolute;
+  top: 36px;
+  left: 1.5vw;
+  width: 60px;
+  height: 60px;
+}
+
+.ig {
+  margin-top: 12px;
+  margin-left: 1vw;
+}
+
+.tsaagii {
+  position: absolute;
+  background-color: white;
+  border: none;
+  border-radius: 50px;
+  width: 500px;
+  height: 820px;
+  top: 4300px;
+}
+
+.tsaagii1 {
+  left: 39vw;
+}
+.tsaagii2 {
+  right: 8vw;
+}
+.tsaagii3 {
+  left: 8vw;
+}
+
+.zoogii1 {
+  position: absolute;
+  top: 580px;
+  left: 1.5vw;
+}
+.zoogii2 {
+  position: absolute;
+  left: 1.5vw;
+  top: 510px;
+}
+.zoogii3 {
+  position: absolute;
+  left: 1.5vw;
+  top: 440px;
+}
+
+.daagii {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: white;
+  position: absolute;
+  top: 50px;
+  left: 30vw;
+}
+
+.deegii {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-left: 8px;
+  margin-top: 20px;
+  font-size: 17px;
+}
+
+.alimaa {
+  margin-left: 0.5vw;
+  font-size: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.hachii {
+  margin-left: 3vw;
+  height: 14px;
+  width: 14px;
+}
+
+.gazar {
+  margin-left: 60px;
+  margin-top: 45px;
+  margin-bottom: 8px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 35px;
+}
+
+.back {
+  position: absolute;
+  left: 5vw;
+  width: 780px;
+  height: 170px;
+  opacity: 70%;
+  border-radius: 90px;
+}
+
+.back1 {
+  top: 3250px;
+  background-color: rgb(135, 176, 230);
+}
+.back2 {
+  top: 3040px;
+  background-color: rgb(95, 185, 167);
+}
+.back3 {
+  top: 2830px;
+  background-color: rgb(97, 144, 134);
+}
+.back4 {
+  top: 2620px;
+  background-color: rgb(119, 178, 166);
+}
+.back5 {
+  top: 2410px;
+  background-color: rgb(243, 238, 222);
+  opacity: 100%;
+}
+
+.ug {
+  position: absolute;
+  border: none;
+  color: white;
+  font-size: 26px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  opacity: 80%;
+  width: 170px;
+}
+
+.ug1 {
+  top: 1536px;
+  left: 65.7vw;
+}
+.ug2 {
+  top: 1536px;
+  left: 58.76vw;
+}
+.ug3 {
+  top: 1536px;
+  left: 89.9vw;
+}
+.ug4 {
+  top: 1536px;
+  left: 83.7vw;
+}
+.ug5 {
+  top: 1540px;
+  left: 32.8vw;
+}
+.ug6 {
+  top: 1510px;
+  left: 30.65vw;
+}
+.ug7 {
+  top: 1540px;
+  left: 9.3vw;
+}
+.ug8 {
+  top: 1510px;
+  left: 11.3vw;
+}
+.ug9 {
+  top: 1510px;
+  left: 5.6vw;
+}
+
+.garaa {
+  position: absolute;
+  width: 275.49px;
+  height: 370px;
+  top: 1400px;
+  border-radius: 15px;
+}
+
+.garaa1 {
+  right: 30vw;
+}
+.garaa2 {
+  right: 5vw;
+}
+.garaa3 {
+  left: 30vw;
+}
+.garaa4 {
+  left: 5vw;
+}
+
+.zugii {
+  width: 275.49px;
+  height: 370px;
+  background-color: rgb(99, 167, 177);
+  position: absolute;
+  top: 1407px;
+  border-radius: 15px;
+}
+
+.zugii1 {
+  right: 29.3vw;
+}
+.zugii2 {
+  right: 4.3vw;
+}
+.zugii3 {
+  left: 30.7vw;
+}
+.zugii4 {
+  left: 5.7vw;
+}
+
+.zegii {
+  width: 275.49px;
+  height: 370px;
+  background-color: rgb(80, 176, 255);
+  position: absolute;
+  top: 1393px;
+  border-radius: 15px;
+}
+
+.zegii1 {
+  right: 30.7vw;
+}
+.zegii2 {
+  right: 5.7vw;
+}
+.zegii3 {
+  left: 29.3vw;
+}
+.zegii4 {
+  left: 4.3vw;
+}
+
+.demii {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+  border: none;
+  background: transparent;
+}
+
+.demii1 {
+  position: absolute;
+  opacity: 60%;
+  top: 550px;
+  width: 144;
+  height: 64;
+  left: 46vw;
+  font-size: 64px;
+}
+.demii2 {
+  position: absolute;
+  opacity: 60%;
+  top: 169px;
+  width: 618px;
+  height: 80px;
+  font-size: 100px;
+  left: 37vw;
+}
+.demii3 {
+  position: absolute;
+  top: 100px;
+  width: 618px;
+  height: 250px;
+  font-size: 250px;
+  opacity: 90%;
+  left: 28vw;
+}
